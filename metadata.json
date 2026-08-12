@@ -1,0 +1,6 @@
+{
+  "name": "Sismo Radar International",
+  "description": "Monitoreo sísmico internacional en tiempo real con alertas, mapa interactivo, simulación y datos de la USGS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
